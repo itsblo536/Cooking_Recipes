@@ -2,6 +2,8 @@
 
 A final project done after going through a self-guided React and Firebase course. This project utilizes a Firestore database, React, HTML, CSS, and JavaScript.
 
+Deployed Website: https://itsblo536.github.io/Cooking_Recipes/
+
 # Description
 For this project, I used React to build a website that allows me to create individual recipes, having the option to add ingredients, cooking time, and instructions. I can also view all of the recipes that I have created, as well as search for specific recipes.
 
